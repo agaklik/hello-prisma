@@ -1,0 +1,14 @@
+{
+    "_id": "beea5ea4-8227-442e-821c-725b0cbd73d7",
+    "name": "dev",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2023-07-01T00:55:29.784Z",
+    "modified": "2023-07-01T00:55:29.784Z",
+    "data": [
+        {
+            "name": "urlBase",
+            "value": "http://localhost:3333"
+        }
+    ]
+}

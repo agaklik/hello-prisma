@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "a70a4c94-4597-41e7-b628-665986679d7d",
+        "colId": "history",
+        "containerId": "",
+        "name": "{{urlBase}}",
+        "url": "{{urlBase}}",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2023-07-01T00:57:24.685Z",
+        "modified": "2023-07-01T00:57:24.685Z",
+        "headers": [],
+        "params": [],
+        "tests": []
+    }
+]

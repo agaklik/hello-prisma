@@ -1,0 +1,42 @@
+{
+    "_id": "db5b9864-7108-4976-a424-d367fdb7ce10",
+    "colName": "Dev",
+    "created": "2023-07-01T00:59:10.861Z",
+    "sortNum": 10000,
+    "folders": [],
+    "requests": [
+        {
+            "_id": "5bef49db-30b6-4fbe-9593-1b6f28f4c594",
+            "colId": "db5b9864-7108-4976-a424-d367fdb7ce10",
+            "containerId": "",
+            "name": "createUser",
+            "url": "{{urlBase}}",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-07-01T01:05:19.140Z",
+            "modified": "2023-07-01T01:23:51.753Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name\":\"Juan\",\n  \"email\":\"juan@fema.com.br\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "5c5a647d-949a-441e-b067-4fe3b5e0d2e9",
+            "colId": "db5b9864-7108-4976-a424-d367fdb7ce10",
+            "containerId": "",
+            "name": "getAll",
+            "url": "{{urlBase}}",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-07-01T01:08:22.059Z",
+            "modified": "2023-07-01T01:08:40.924Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
